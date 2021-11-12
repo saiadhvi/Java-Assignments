@@ -25,6 +25,7 @@ public class Daysoftheweek {
                 System.out.println("Day is Sunday");
                 break;
             default: System.out.println("days of the week");
+              break;
         }
     }
 }
